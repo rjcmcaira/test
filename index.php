@@ -194,7 +194,7 @@
                 <div class="row">
                     <div class="col-lg-6 align-self-center">
                         <p class="text-muted"><span class="typewrite d-inline" data-period="2000" data-type='[ " Desarrollador Web. ", "Analista de Sistemas. ", "FullStack. ", "Ingenieria de SISTEMAS. " ]'></span></p>
-                        <h2>Hola, Soy <span>Jose Caira</span></h2>
+                        <h2>Hola, Soy <span>Jose Caira Mamani</span></h2>
                         <h3 class="mb-20"> Bienvenidos a mi web</h3>
                         <h5 class="text-muted">Si puedes imaginarlo, puedes programarlo...</h5>
                     </div>
